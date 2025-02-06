@@ -43,7 +43,6 @@
         "Keywords": "",
         "FieldName": "$ApplicationIPBinding",
         "InputType": "text",
-        "Hidden": true,
         "ParamFieldName": "$.ip",
         "EnumValues": {}
     },
@@ -55,7 +54,6 @@
         "Keywords": "",
         "FieldName": "$ApplicationIPBinding",
         "InputType": "text",
-        "Hidden": true,
         "ParamFieldName": "$.backendIp",
         "EnumValues": {}
     },
